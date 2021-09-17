@@ -1,2 +1,3 @@
-# bd_pokemon
-Creacion de BD en MySql Workbench y añadiendo tablas y datos
+# BD_POKEMON
+Creacion de base de datos en MySql Workbench y añadiendo tablas y datos
+
